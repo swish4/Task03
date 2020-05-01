@@ -1,0 +1,15 @@
+---
+title: "Task-03"
+author: "Savannah Sandstrom"
+date: "4/27/2020"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+## 1. Where the green grass grows
+
+Article: Tim Mcgraw
+
+I love this song and hope to make it a reality one day.
+
